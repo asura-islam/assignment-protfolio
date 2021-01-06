@@ -92,7 +92,33 @@ h2{
     background-position: left;
 
 }
-     
-     
-
- 
+  .icone-text{
+      text-align: center;
+  }   
+     .icone{
+         float: left;
+         position: relative;
+         display: inline;
+         margin-left: 45%;
+         height:3%;
+     }
+.next-section{
+    height:200px;
+}
+ .pricing{
+    display: block;
+    float: left;
+   margin-left: 30px;
+    text-align: center;
+   box-shadow: 25px 25px 45px slategray;
+   border-radius: 7px;
+   width: 20%;
+   height: 40%;
+ }
+ .paragraph{
+     text-align: center;
+ }
+ .overflow{
+     margin: 5% 20%;
+     height: 500px;
+ }
